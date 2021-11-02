@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/beachResortReact/static/css/main.a9e0c5e5.chunk.css",
+    "main.js": "/beachResortReact/static/js/main.40fe62c6.chunk.js",
+    "main.js.map": "/beachResortReact/static/js/main.40fe62c6.chunk.js.map",
+    "runtime-main.js": "/beachResortReact/static/js/runtime-main.aed98e83.js",
+    "runtime-main.js.map": "/beachResortReact/static/js/runtime-main.aed98e83.js.map",
+    "static/js/2.36a7f352.chunk.js": "/beachResortReact/static/js/2.36a7f352.chunk.js",
+    "static/js/2.36a7f352.chunk.js.map": "/beachResortReact/static/js/2.36a7f352.chunk.js.map",
+    "index.html": "/beachResortReact/index.html",
+    "static/css/main.a9e0c5e5.chunk.css.map": "/beachResortReact/static/css/main.a9e0c5e5.chunk.css.map",
+    "static/js/2.36a7f352.chunk.js.LICENSE.txt": "/beachResortReact/static/js/2.36a7f352.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/beachResortReact/static/media/room-2.48c60181.jpeg",
+    "static/media/loading-arrow.dd29210f.gif": "/beachResortReact/static/media/loading-arrow.dd29210f.gif",
+    "static/media/logo.bcd67a42.png": "/beachResortReact/static/media/logo.bcd67a42.png",
+    "static/media/room-1.05b90599.jpeg": "/beachResortReact/static/media/room-1.05b90599.jpeg",
+    "static/media/room-9.18aabe9f.jpeg": "/beachResortReact/static/media/room-9.18aabe9f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aed98e83.js",
+    "static/js/2.36a7f352.chunk.js",
+    "static/css/main.a9e0c5e5.chunk.css",
+    "static/js/main.40fe62c6.chunk.js"
+  ]
+}
